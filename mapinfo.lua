@@ -32,7 +32,7 @@ local mapInfo = {
   },
   smf = {
     maxheight = 200,
-    minheight = -100,
+    minheight = -110,
     smtFileName0 = "Blank.smt",
   },
   teams = {
